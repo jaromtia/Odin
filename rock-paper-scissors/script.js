@@ -1,3 +1,4 @@
+console.log("Hello World")
 function getComputerChoice(){
     // randomly return rock paper or scissor
     // randomly generate number between 0 - 2
